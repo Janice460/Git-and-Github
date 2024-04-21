@@ -29,3 +29,14 @@ crreate folders create files change update things install and runs programs and 
 ## Git Bash
 - git -- version -> to know the version 
 - 
+
+## movifications
+-- git status: showns me all of the files that were updated or created or deletes but haven't been saved in a commit yet
+    - can be appear 'Changes not staged for commit:' or 'Untracked files:' (git doesnñt know about this file yet) 
+- git add -> tell it which files to track now most of the time or a lot of the time you see people use a '.' (track all of the files that are listed here)
+- git commit -m -> -m is for messages, you nee dto have a message in order to commit your files, the message could be one caracter in meaningless if you want but there needs to be 
+    - in a commit message there are two boxes we can put the second one as follows: 
+        git commit -m "Message 1" -m "Message 2"
+        bue after that we saved our code locally, the commit isn't live on girhub yet we make it live by using 'git push'
+- git push -> I want topush this live to a remote repository wher e my project is hosted
+    
