@@ -22,5 +22,10 @@ crreate folders create files change update things install and runs programs and 
 - push: upload Git commits to a remote repo, like github
 - pull -> download changes from remote repo yto your local machine the opposite of push
 
+## Notes:
+- every commit has an indentifier
+- we can open git
 
-
+## Git Bash
+- git -- version -> to know the version 
+- 
