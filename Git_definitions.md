@@ -40,3 +40,19 @@ crreate folders create files change update things install and runs programs and 
             - bue after that we saved our code locally, the commit isn't live on girhub yet we make it live by using 'git push'
 - git push -> I want topush this live to a remote repository wher e my project is hosted
     - git push origin: origin is the location of our git rrepodsitory and master is the branc that we want to push to 
+## Push changes to a remote repository
+
+
+## Github workflow
+Write code -> Commit changes -> Make a pull request
+## Local git workflow
+Write code -> Stage changes (git add) -> Commit changes (git commit) -> Push changes (git push) -> Make a pull request
+
+## Git Branching
+- main brach -> is a default branch in our repository, all your code everithing commits will be int hat branch but we can also make another branch\
+Suppose we have a Feature branch
+    - Commit 1 -> Commit 2 -> Commit 3 -> Commit 4
+    -                                  \-> Commit 1 -> Commit 2
+I s helful to have this when many deferent people working on the same repository or a lot of diferent branches going on at one.\
+One very common thing that you will see in development is that you'll be working on lets say, this feature branch for a week or more, and you have all of these changes that you've made and that then you find our there this major bug that you have to fix real quick. So for that you make this aonother branch called a hotfix branch here represented by yellow. And you can see that I made
+-  
