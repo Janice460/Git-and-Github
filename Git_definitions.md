@@ -52,7 +52,7 @@ Write code -> Stage changes (git add) -> Commit changes (git commit) -> Push cha
 - main brach -> is a default branch in our repository, all your code everithing commits will be int hat branch but we can also make another branch\
 Suppose we have a Feature branch
     - Commit 1 -> Commit 2 -> Commit 3 -> Commit 4
-    -                                  \-> Commit 1 -> Commit 2
-I s helful to have this when many deferent people working on the same repository or a lot of diferent branches going on at one.\
+    - -> Commit 1 -> Commit 2
+Is helful to have this when many deferent people working on the same repository or a lot of diferent branches going on at one.\
 One very common thing that you will see in development is that you'll be working on lets say, this feature branch for a week or more, and you have all of these changes that you've made and that then you find our there this major bug that you have to fix real quick. So for that you make this aonother branch called a hotfix branch here represented by yellow. And you can see that I made
 -  
